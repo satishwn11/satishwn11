@@ -1,5 +1,5 @@
 👋 Hi, I'm Satish Samad!
-🚀 Android App Developer | 🎨 Vector Artist | 📝 Data Entry Enthusiast
+🚀 Android App Developer 
 🌱 I have been learning Android App Development since June 2024
 
 💡 I follow the "Concept Se Creation" approach, where I apply new concepts by building small projects
@@ -8,9 +8,7 @@
 
 🎯 Currently improving my skills in RecyclerView, Database, SharedPreferences, and UI/UX Design
 
-👀 Exploring ways to earn through freelancing and app development
-
-🛠️ Tech Stack: Kotlin | XML | Firebase | SQLite | Jetpack Compose
+🛠️ Tech Stack: Kotlin | Room Database | XML | Firebase | API Integration | Jetpack Compose 
 
 📌 Projects I'm Working On
 📒 ProDuck → A productivity app to help users log daily activities with reminders
