@@ -18,7 +18,7 @@
 ✅ DayTrack → A to-do list manager for task organization
 
 🔗 Connect with Me
-🌍 my personal website - https://satishji0.wordpress.com.
+🌍 my personal website - [https://satishji0.wordpress.com.](https://satishwn11.github.io/SatishSamad/)
 
 🏠 Based in Jharkhand, India.
 
